@@ -1,2 +1,2 @@
 # bakatest
-need jdk 25 for work. 
+My name is Sofia and i like cute things(^w^)
